@@ -1,5 +1,5 @@
 # rocket_chat_history_clear
-this is a very simple python script that you can cron job to clear history from a rocket.chat server that are over 30 days old. Use at own risk under GNU public license.
+This is a very simple python script that you can cron job to clear history from a rocket.chat server that are over 30 days old. Use at own risk under GNU public license.
 
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
